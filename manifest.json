@@ -1,0 +1,15 @@
+{"name": "What is Chapter 7 Bankruptcy?",
+  "short_name": "whatischapter7.org",
+  "description": "A plain-English guide to Chapter 7 liquidation under 11 U.S.C. Section 701-784",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
